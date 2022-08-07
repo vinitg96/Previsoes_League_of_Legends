@@ -6,7 +6,7 @@
 
 ## Links Úteis
 - [Publicação no Medium](https://medium.com/@vini.guerra87/prevendo-o-resultado-de-partidas-de-league-of-legends-com-python-3c15c10a8784)
-- [App online](https://share.streamlit.io/vinitg96/app_previsoes_league_of_legends/main/app.py)
+- [App online](https://vinitg96-previsoes-league-of-legends-app-hkz2ff.streamlitapp.com/)
 
 ## Contexto
 League of Legends é um jogo eletrônico do gênero MOBA (Multiplayer Online Battle Arena) no qual duas equipes de cinco jogadores disputam em tempo real para destruir primeiro a base do adversário
@@ -39,7 +39,7 @@ Os dados utilizados contém informações referentes aos 10 primeiros minutos de
 ![Results](./media/metrics.png "Metricas")
 
 ## Deploy
-A solução final consistiu em um [App Online](https://share.streamlit.io/vinitg96/app_previsoes_league_of_legends/main/app.py) desenvolvido com o streamlit.
+A solução final consistiu em um [App Online](https://vinitg96-previsoes-league-of-legends-app-hkz2ff.streamlitapp.com/) desenvolvido com o streamlit.
 
 ![Prévia do Deploy](./media/previa.png "Prévia do Deploy")
 
